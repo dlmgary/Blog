@@ -16,3 +16,7 @@ List of references:
 ## Must re-read:
 
 
+## AWS AMI
+
+WordPress-ready image. 
+- WordPress Certified by Bitnami and Automattic
