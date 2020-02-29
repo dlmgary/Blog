@@ -23,14 +23,15 @@ Initially, that didn't sound like much, so I calculated the number of ad views e
 
 That number is based solely on ad impressions. As I spoke with different people, the idea of showing videos came up. I contacted different companies to try to get estimates but did not have much luck. I will continue contacting them.  
 
-Some of the other vital take aways are more related to how the site should work. 
-- The site should be gamefied. 
+Some of the other vital takeaways are more related to how the site should work. 
+- The site should be gamified. 
 - Make progress evident to everybody.
 - Users have a short-term attention span
 - It's unlikely that users will share the link month-to-month, or that all members of the organization would share the link. 
 - Have milestones, and each milestone should have a reward (e.g., it can be a picture or something new unlocked). 
 
-Anyways. I think that's all for now. Still need to add more material here.
+
+> Anyways. I think that's all for now. I still need to add more material here.
 
 Cheers,
 
