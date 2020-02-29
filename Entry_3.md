@@ -1,6 +1,6 @@
 # Naming
 
-## Hi there, Gary here.
+### Hi there, Gary here, 
 
 It's only been one day since the challenge started. And my obsessive-compulsive disorder hasn't let me stop thinking about this challenge. Oh well, isn't every successful entrepreneur a bit mad? 
 
