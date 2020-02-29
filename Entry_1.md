@@ -1,3 +1,5 @@
+# Introduction
+
 ### Hi there,
 
 My name is Gary, and this is my first blog post ever. Brace yourself for an exciting and somewhat unpredictable ride. This blog's objective is pretty simple; I want to bring you on my journey as I build the next multi-million-dollar startup. Every journey begins with a step, and this constitutes the proverbial first step. 
@@ -10,7 +12,7 @@ Today, February 19th, 2020, I officially accept the Web App Challenge, with the 
 - Twenty-hours work week. 
 - And the deadline is six months from today (August 19th, 2020). 
 
-###  Let's get started, shall we? 
+##  Let's get started, shall we? 
 
 At heart, I'm a tech person. So, it is natural that this new business of mine will be tech-related. Why tech? Simple. It is the only discipline I know that is not capital intensive (at least at the beginning) that it can quickly scale to a global audience. 
 
