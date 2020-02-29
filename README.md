@@ -20,3 +20,4 @@ List of references:
 
 WordPress-ready image. 
 - WordPress Certified by Bitnami and Automattic
+- https://docs.bitnami.com/aws/how-to/bitnami-remove-banner/
