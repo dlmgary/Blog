@@ -19,7 +19,7 @@ From the different interviews, I learned that users would be willing to use the 
 
 Initially, that didn't sound like much, so I calculated the number of ad views each site would need to make $100 a month. Using Google AdSense (https://www.google.com/adsense/start/), I made a back of the envelope calculation to estimate how many ad impressions are needed to reach $100 of revenue a month. 
 
-- $100 per month =  ~10,000 ad impressions per month.  
+- $100 per month =  ~10,000 - 15,000 ad impressions per month.  
 
 That number is based solely on ad impressions. As I spoke with different people, the idea of showing videos came up. I contacted different companies to try to get estimates but did not have much luck. I will continue contacting them.  
 
