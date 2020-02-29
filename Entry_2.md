@@ -1,6 +1,6 @@
 # Ideation and Brainstorming
 
-## Hi there, Gary here. 
+### Hi there, Gary here, 
 
 We are still in day one of the challenge I wrote the first blog entry just a couple of hours ago (you can check it [here][1]), but I thought my progress merited an update. After all, what is a blog without any posts? 
 
