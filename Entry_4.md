@@ -38,3 +38,4 @@ Cheers,
 
 
 
+- https://support.jwplayer.com/topics/advertising
