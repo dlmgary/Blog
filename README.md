@@ -11,9 +11,9 @@
 
 
 ## Must re-read:
-- [7 rules for creating gorgeous UI][1]
-- [The artist and the innovator][2]
-- [30 Great UI kits for iOS][3]
+- [7 Rules for Creating Gorgeous UI][1]
+- [The Artist and The Innovator][2]
+- [30 Great UI Kits for iOS][3]
 
 ## AWS AMI
 
