@@ -1,8 +1,5 @@
 # Research
 
-List of references:
-
-
 ## Ideation
 - https://dribbble.com/
 - https://www.producthunt.com
