@@ -19,8 +19,7 @@ Below are a list of resources I found while writing my blog and found useful. I 
 
 ## AWS AMI
 
-WordPress-ready image. 
-- WordPress Certified by Bitnami and Automattic
+WordPress-ready image: WordPress Certified by Bitnami and Automattic
 - https://docs.bitnami.com/aws/how-to/bitnami-remove-banner/
 
 
