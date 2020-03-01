@@ -1,5 +1,7 @@
 # Research
 
+Below are a list of resources I found while writing my blog and found useful. I hope you will find them helpful in your projects. 
+
 ## Ideation
 - [Dribble](https://dribbble.com/)
 - [Product Hunt](https://www.producthunt.com)
