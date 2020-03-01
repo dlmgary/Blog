@@ -1,13 +1,13 @@
 # Research
 
 ## Ideation
-- https://dribbble.com/
-- https://www.producthunt.com
-- https://pttrns.com/
+- [Dribble](https://dribbble.com/)
+- [Product Hunt](https://www.producthunt.com)
+- [Pttrns](https://pttrns.com/)
 
 ## Icons 
-- https://feathericons.com
-- https://icons8.com/vector-creator/
+- [Feather Icons](https://feathericons.com)
+- [Icons 8](https://icons8.com/vector-creator/)
 
 
 ## Must re-read:
