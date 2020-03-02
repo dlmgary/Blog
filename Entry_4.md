@@ -7,9 +7,10 @@ Feb. 29, 2020.
 Okay, it's time to update you on the ad-based crowdsourcing platform. 
 
 The beauty of talking to customers is that it allows you to have a better understanding of their needs. From talking to a couple of potential customers, I learned the following things about their fundraising events:
-Small organizations (i.e., college clubs) have 2-3 fundraising events per year.
-Each event raises hundredths, not thousands, of dollars, usually somewhere in the low hundredths. 
-Those events are put together by 4-5 people.
+
+- Small organizations (i.e., college clubs) have 2-3 fundraising events per year.
+- Each event raises hundredths, not thousands, of dollars, usually somewhere in the low hundredths. 
+- Those events are put together by 4-5 people.
 
 The information was, indeed, beneficial. I had grossly overestimated the amount of money small college clubs raised. It appears that most of them require the financial backing of universities to cover for their most significant expenses (e.g., travel, uniforms, equipment). 
 
